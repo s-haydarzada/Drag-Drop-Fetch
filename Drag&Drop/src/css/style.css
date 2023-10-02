@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+input, button, .status {
+    margin: 10px;
+}
+
+.status {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 100px;
+    width: 200px;
+}
